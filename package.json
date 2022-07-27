@@ -1,0 +1,22 @@
+{
+  "name": "bilemo_node",
+  "version": "0.1.0",
+  "description": "Test project for Express and Sequelizer, from school project Bilemo (P7)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ledukilian/P7_Node.git"
+  },
+  "author": "ledukilian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledukilian/P7_Node/issues"
+  },
+  "homepage": "https://github.com/ledukilian/P7_Node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
